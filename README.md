@@ -7,6 +7,7 @@ This project provides an in-depth analysis of electric vehicles (EVs) using Powe
 **Files Included**
 
 **Electric_Vehicle_Analysis.pdf**: A snapshot of the Power BI dashboard visualizations.
+
 **Electric_Vehicle_Analysis.pbix**: The Power BI file containing the interactive dashboard and data model.
 
 
